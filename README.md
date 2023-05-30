@@ -1,4 +1,4 @@
- # 0x04. Files manager
+# 0x04. Files manager
 
 ## A team project done by Ernest Aiji and Stella Ojuiba
 
