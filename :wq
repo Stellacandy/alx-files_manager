@@ -1,0 +1,49 @@
+Ernyson (16):
+      readme
+      readme
+      readme
+      readme
+      redis edited
+      redis edited
+      file edited
+      server edited
+      index file
+      edited tasks files
+      worker
+      worker
+      controller edited
+      controller files
+      fixing
+      fixing
+
+Stellacandy (29):
+      README
+      config file
+      config file
+      config file
+      update gitignore
+      Restructure application startup mechanism
+      Add status logs in worker script
+      add options for mocha
+      Fix issue with X-Token authentication
+      Revert "Comment out environment loading routine"
+      Refactor environment loading routine
+      Remove unused imports
+      Refactor RedisClient class
+      Remove unused imports
+      Fix issue with multiple done() calls
+      Change test descriptions
+      Fix issue with multiple done() calls
+      Add tests for invalid email/password combination with GET: /connect
+      Update folder that is emptied
+      Add tests for POST: /users
+      Revert "Remove middleware for AuthController route handlers"
+      Add authentication middleware module
+      Remove next call in errorResponse function
+      Refactor environment loading routine
+      Increase JSON body size limit
+      Fix ESLint issues
+      Fix issue with X-Token retrieval
+      Revert "Change response value of FilesController.getShow"
+      Fix issue with adding user to be processed in the mailing queue
+
