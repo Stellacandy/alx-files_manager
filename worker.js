@@ -69,8 +69,8 @@ userQueue.process(async (job, done) => {
       'Welcome to <a href="https://github.com/Stellacandy/alx-files_manager">',
       'ALX-Files_Manager</a>, ',
       'a simple file management API built with Node.js by ',
-      '<a href="https://github.com/Stellacandy">Stellacandy</a>. ',
-	'<a href="https://github.com/Stellacandy">Stellacandy</a>. ',
+      '<a href="https://github.com/Stellacandy">Stell Ojuiba</a>. ',
+	'<a href="https://github.com/Ernyson">Ernest Aiji</a>. ',
       'We hope it meets your needs.',
       '</div>',
     ].join('');
